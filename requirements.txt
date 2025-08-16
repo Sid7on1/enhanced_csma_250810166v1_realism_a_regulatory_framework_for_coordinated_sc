@@ -1,0 +1,42 @@
+# requirements.txt
+
+# Core scientific computing and data manipulation
+numpy==1.23.3
+scipy==1.11.0
+pandas==1.5.2
+
+# Machine learning and deep learning
+torch==1.15.0
+torchvision==0.10.0
+transformers==4.21.0
+
+# Data visualization and plotting
+matplotlib==3.7.1
+seaborn==0.11.2
+plotly==5.14.0
+
+# Data processing and manipulation
+nltk==3.6.6
+spacy==3.3.0
+beautifulsoup4==4.6.0
+
+# Testing and development
+pytest==7.1.2
+mock==4.0.3
+flake8==4.0.1
+
+# Other utilities
+tqdm==4.64.0
+requests==2.27.1
+
+# Specific versions to ensure compatibility
+python-dateutil==2.8.2
+six==1.16.0
+cycler==0.11.0
+kiwisolver==1.4.2
+
+# For XR specific functionality
+# ... Add XR specific libraries and packages here ...
+
+# Project specific packages (ensure compatibility)
+# ... Add any project specific packages or constraints here ...
